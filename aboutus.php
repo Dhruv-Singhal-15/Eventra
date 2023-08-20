@@ -127,7 +127,7 @@
 
             <div class="text-container">
                 <h1>About us</h1>
-                <p>Eventra was founded by 5 ambitious college kids Dhruv, Arnav, Prajwal, Atinder and Japneet in the year 2022. <br>Eventra Events and Entertainments Pvt Ltd specialises in planning lavish and flawless events. Our team has qualified and experienced event planners who get counted as the finest wedding designers and event organisers in Delhi, Noida and Gurgaon. </p>
+                <p>Eventra was founded by 5 ambitious college kids Dhruv in the year 2022 as a college project. <br>Eventra Events and Entertainments Pvt Ltd specialises in planning lavish and flawless events. Our team has qualified and experienced event planners who get counted as the finest wedding designers and event organisers in Delhi, Noida and Gurgaon. </p>
                 
             </div>
             
